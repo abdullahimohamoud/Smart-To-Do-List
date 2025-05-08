@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "by groceries",
+    "status": "pending",
+    "priority": "normal",
+    "deadline": null
+  },
+  {
+    "id": 2,
+    "name": "abdullah",
+    "status": "pending",
+    "priority": "normal",
+    "deadline": null
+  }
+]
