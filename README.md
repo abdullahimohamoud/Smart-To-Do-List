@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+...your local content...
+=======
+...content from GitHub...
+>>>>>>> main
 # README.md
 # Smart To-Do List with Voice Command (Backend-Only)
 
@@ -39,3 +44,7 @@ Copyright (c) 2025 made with love by @uncannystranger
 
 ---
 Made with love by @uncannystranger
+=======
+# Smart-To-Do-List
+A Python voice-enabled to-do list app that lets users add, update, and delete tasks using speech. It recognizes commands, gives spoken feedback, and stores tasks locally with name, status, priority, and deadline. Includes desktop reminders. Fully backend—no GUI or web front-end required.
+>>>>>>> 805dff673712e1476f1bc6ac4812f8e30233863b
