@@ -1,5 +1,17 @@
-# main.py
+# Smart To-Do List with Voice Command (Backend-Only)
+#
+# Description:
+# This Python project is a voice-enabled to-do list application that allows users to manage tasks using spoken commands. It recognizes voice inputs for adding, updating, and deleting tasks, and responds with audio feedback. Tasks are stored locally with attributes like name, status, priority, and deadline. The app also provides desktop notifications for due tasks. No GUI or web front-end is included—this is a backend-only productivity tool for local desktop use.
+#
+# Features:
+# - Voice command recognition (add, complete, delete tasks)
+# - Text-to-speech feedback
+# - Task management with priority and deadline
+# - Desktop notifications for due tasks
+# - Local file storage (tasks.json)
+#
 # Copyright (c) 2025 made with love by @uncannystranger
+
 from voice_interface import VoiceInterface
 from task_manager import TaskManager
 from notifier import Notifier
